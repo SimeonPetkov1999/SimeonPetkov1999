@@ -32,10 +32,12 @@
 </p>
 
 ## :chart: My GitHub Stats
-<p>
- <img  src="http://github-readme-streak-stats.herokuapp.com?user=simeonpetkov1999&theme=blue-green&date_format=j%20M%5B%20Y%5D" /> &nbsp; &nbsp;
+<p align="center">
+ <img  src="http://github-readme-streak-stats.herokuapp.com?user=simeonpetkov1999&theme=blue-green&date_format=j%20M%5B%20Y%5D" />
+</p>
+<p align="center">
  <img  src="https://github-readme-stats.vercel.app/api?username=simeonpetkov1999&show_icons=true&theme=blue-green" />
-  </p>
+</p>
 
 <p align="center">
  <img  src="https://activity-graph.herokuapp.com/graph?username=simeonpetkov1999&bg_color=000000&color=ffffff&line=2bff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
@@ -43,10 +45,10 @@
 
 ## :white_check_mark: Top Repos
 <p>
-<a href="https://www.linkedin.com/in/spetkov1999/">
+<a href="https://github.com/SimeonPetkov1999/MobileBG">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=simeonPetkov1999&repo=MobileBG&theme=gotham"  />
 </a>
-  <a href="https://www.linkedin.com/in/spetkov1999/">
+  <a href="https://github.com/SimeonPetkov1999/SoftUni">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=simeonPetkov1999&repo=Softuni&theme=gotham"  />
 </a>
 <p/>
